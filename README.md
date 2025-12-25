@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BrunelTristan
 - 👀 I’m interested in producing clean code 
-- 🌱 I’m currently learning GO
+- 🌱 I’m currently learning GO, Rust, and TypeScript
 - 💞️ I’m looking to collaborate on challenging project
 - 📫 How to reach me : try here
 - ⚡ Fun fact: RTFM
